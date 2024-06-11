@@ -1,0 +1,1 @@
+This directory contains all results of all surveys or other consensus finding processes that where conducted to create, refine, enhance or extend the definition.
