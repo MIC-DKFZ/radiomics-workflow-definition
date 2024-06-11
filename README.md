@@ -5,7 +5,8 @@ RWD was initiated by the DFG priority program [Radiomics: Next Generation of Bio
 
 ## Purpose
 
-A lack of standardization is a significant obstacle to the successful clinical translation of radiomics. Current literature shows no consensus on the terminology used, with some terms being partially conflicting. For more details, see the results in [Floca 2024](https://doi.org/10.1186/s13244-024-01704-w) and the associated [supplement](https://github.com/MIC-DKFZ/radiomics-workflow-definition/blob/main/publications/Floca%20224/Supplement1%20-%20List%20of%20extracted%20terms%20and%20mapping.pdf). This lack of standardized definitions complicates addressing other challenges in the field.
+A lack of standardization is a significant obstacle to the successful clinical translation of radiomics. Current literature shows no consensus on the terminology used, with some terms being partially conflicting. For more details, see the results in [Floca 2024](https://doi.org/10.1186/s13244-024-01704-w) and the associated [supplement](
+https://github.com/MIC-DKFZ/radiomics-workflow-definition/blob/b33fac32d1260b0319118099eb1aeb0207c7fe13/publications/Floca%202024/Supplement1%20-%20List%20of%20extracted%20terms%20and%20mapping.pdf). This lack of standardized definitions complicates addressing other challenges in the field.
 
 To tackle this problem and overcome semantic inconsistencies between existing definitions, we compiled a consensus workflow definition for radiomics-based setups and a mapping of terms to existing literature. The purpose of this project is to make these results available and offer the community a platform to further develop a comprehensive, widely accepted radiomics workflow definition.
 
